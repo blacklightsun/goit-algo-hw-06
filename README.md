@@ -4,10 +4,10 @@
 ## Завдання 1
 
 ### Візуалізація схеми Чернівецького метро, знайденої в інтренеті.
-![](/home/negan/PycharmProjects/HW6/Chernivtsi_metro_schema.png)
+![](Chernivtsi_metro_schema.png)
 
 ### Результат візуалізації:
-![](/home/negan/PycharmProjects/HW6/my_schema.png)
+![](my_schema.png)
 
 Характеристика графа (схеми метро):
 Кількість ліній: 3
